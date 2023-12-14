@@ -9,3 +9,7 @@ Nutrition Education Diagnosis Website, Hallym Univ, Development of Design & Fron
 [자세한 사이트 개발 내용]
 - [🎥 시연 동영상](https://www.youtube.com/watch?v=wbbpgStU9_g) & [📑 발표 자료](https://www.miricanvas.com/v/11ltj6s)
 
+<img src="img/001.jpg">
+<img src="img/004.jpg">
+<img src="img/005.jpg">
+<img src="img/006.jpg">
