@@ -3,7 +3,7 @@ Nutrition Education Diagnosis Website, Hallym Univ, Development of Design & Fron
 
 - 사이트 이름 : 영양 지킴이
 - 로고 <br>
-   <img src = "img/Logo.png" width="384" height="216"/><br>
+   
 - 콘셉트 : 비만과 영양실조를 한 번에 관리할 수 있는 영양 교육 & 진단 시스템 <br>
 - [선정 이유]<br>
 : [고도비만 수도권, 영양실조 지방... 말뿐인 지역균형발전](https://www.joongang.co.kr/article/25026768#home) 기사를 통해 수도권과 지방의 영양 빈부격차를 느낌.<br>
